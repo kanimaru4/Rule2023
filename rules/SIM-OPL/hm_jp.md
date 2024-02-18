@@ -79,7 +79,7 @@
         <li> 指示文章のミスを発見し修正を提案する </li>
         <li> 誤って指示文章のミスを指摘する </li>
     </td>
-    <td align="center"> <!-- 50 <br> --> 50 <br> -10 </td>
+    <td align="center"> <br> 50 <br> -10 </td>
   </tr>
   <tr>
     <td colspan="2" align="center"> <b> ペナルティ </b> </td>
@@ -90,7 +90,7 @@
         <li> アバターや物体に衝突する </li>
         <li> 把持・手放した物体が他の物体と衝突する </li>
     </td>
-    <td align="center"> <!-- 50 <br> --> 0 <br> 0 </td>
+    <td align="center"> <br> 0 <br> 0 </td>
   </tr>
   <tr>
     <td> <b>合計（1セッション当たり）</b> </td>
@@ -100,10 +100,7 @@
 
 
 > **Note**
-> Educationリーグと同じ競技を採用し，ルール内容も同じなのですが，差別化のため異なる採点方式を用いている．
-
-> **Note**
-> 開閉式バリア（ガイドポールなど）は，三角形のものを3本ほど用いる．`Setup Day`から使用可能（予定）．
+> 実際に使用する課題は平等を期すために各チームで作成したものを用いる．
 
 
 ## 運営(EC)による指示（Instructions from the Executive Committee(EC)）
@@ -112,7 +109,6 @@
   - Ubuntu PCでロボットコントローラやSIGVerse rosbridgeなどを起動する．
   - Windows PCでHnadyman-ソフトウェアを起動する．
   - 
-
 
 ## レフェリー(OC)の動き（Role of the Referee(TC)）
 
