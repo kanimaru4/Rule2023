@@ -67,18 +67,6 @@
         <li> 誤った部屋に移動 </li>
       </ul> 
     </td>
-    <td align="center"> 20 <br> -10 </td>
-  </tr>
-  <tr>
-    <td> 指示された物体を把持する <br> 
-      <ul>
-        <li> 指示通りの部屋に移動 </li>
-        <li> 誤った部屋に移動 </li>
-      </ul> 
-    </td>
-    <td align="center"> 20 <br> -10 </td>
-  </tr>
-  <tr>
     <td> 指示された部屋に移動する <br> 
       <ul>
         <li> 指示通りの部屋に移動 </li>
