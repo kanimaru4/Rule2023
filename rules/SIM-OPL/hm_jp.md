@@ -70,29 +70,32 @@
     </td>
     <td align="center"> <br> 20 <br> -10 <br> <br> <br> 50 <br> -10 <br> <br> <br> 30 <br> -10 </td>
   </tr>
-  
   <tr>
-    <td colspan="2" align="center"> <b> ボーナスタスク </b> </td>
+    <td colspan="2" align="center"> <b> ボーナスポイント </b> </td>
   </tr>
   <tr>
-    <td> アリーナへの再入場
+    <td> ヒューマンエラーの指摘
       <ul>
-        <li> 自律的にアリーナ内に入る </li>
-        <li> 自律的に`スタート地点`へ戻る </li>
+        <li> 指示文章のミスを発見し修正を提案する </li>
+        <li> 誤って指示文章のミスを指摘する </li>
+    </td>
+    <td align="center"> <!-- 50 <br> --> 50 <br> -10 </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"> <b> ペナルティ </b> </td>
+  </tr>
+  <tr>
+    <td> 衝突
+      <ul>
+        <li> アバターや物体に衝突する </li>
+        <li> 把持・手放した物体が他の物体と衝突する </li>
       
     </td>
-    <td align="center"> <!-- 50 <br> --> 25 <br> 25 </td>
+    <td align="center"> <!-- 50 <br> --> 0 <br> 0 </td>
   </tr>
   <tr>
-    <td colspan="2" align="center"> <b>ペナルティ</b> </td>
-  </tr>
-  <tr>
-    <td> 不参加（無断） </td>
-    <td align="center"> -500 </td>
-  </tr>
-  <tr>
-    <td> <b>合計（ボーナスタスクを含む）</b> </td>
-    <td align="center"> <b>500</b> </td>
+    <td> <b>合計（1セッション当たり）</b> </td>
+    <td align="center"> <b>150</b> </td>
   </tr>
 </table>
 
