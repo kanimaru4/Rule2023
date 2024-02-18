@@ -77,7 +77,7 @@
         <li> 誤った位置に運搬する </li>
       </ul> 
     </td>
-    <td align="center"> 20 <br> -10 <br> <br> 50 <br> -10 <br> <br> 30 <br> -10 <br>　</td>
+    <td align="center"> 20 <br> -10 <br> <br> <br> 50 <br> -10 <br> <br> <br> 30 <br> -10 <br>　</td>
   </tr>
   
   <tr>
